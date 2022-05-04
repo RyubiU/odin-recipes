@@ -1,0 +1,20 @@
+body {
+    background-color: #bdbd2f;
+    font-size: 20px;
+}
+
+.shrimp {
+    color: #1d09b2;
+}
+
+.sausage {
+    color: #933636;
+}
+
+.rolls {
+    color: rgb(16, 121, 16);
+}
+
+h1 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
